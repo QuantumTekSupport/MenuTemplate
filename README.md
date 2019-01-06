@@ -1,0 +1,2 @@
+# MenuSystem
+Support for this asset can be found at https://github.com/QuantumTekSupport/MenuSystem/issues, or you can contact us at quantumteks@gmail.com. This asset allows users to easily create menus, either made of multiple windows with however many open at a time, or tab menus with only one window shown, and tabs at the top. There are many prefabs for menus and UI elements. Audio upon button click is supported as well. Settings can be automatically saved using the system setup for it.
